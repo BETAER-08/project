@@ -1,0 +1,52 @@
+{
+    "anode_materials": {
+        "금속 원소": {
+            "리튬 (Li)": {"potential": -3.04},
+            "나트륨 (Na)": {"potential": -2.71},
+            "칼륨 (K)": {"potential": -2.93},
+            "마그네슘 (Mg)": {"potential": -2.37},
+            "알루미늄 (Al)": {"potential": -1.66},
+            "아연 (Zn)": {"potential": -0.76},
+            "주석 (Sn)": {"potential": -0.14},
+            "구리 (Cu)": {"potential": 0.34},
+            "금 (Au)": {"potential": 0.85},
+            "은 (Ag)": {"potential": 0.80},
+            "티타늄 (Ti)": {"potential": -1.63},
+            "칼슘 (Ca)": {"potential": -2.87},
+            "바륨 (Ba)": {"potential": -2.90},
+            "스트론튬 (Sr)": {"potential": -2.89},
+            "망간 (Mn)": {"potential": -1.18}
+        },
+        "금속 산화물": {
+            "산화리튬 (Li₂O)": {"potential": -0.29},
+            "산화나트륨 (Na₂O)": {"potential": -0.10},
+            "산화마그네슘 (MgO)": {"potential": -0.15},
+            "산화알루미늄 (Al₂O₃)": {"potential": -0.05},
+            "산화아연 (ZnO)": {"potential": -0.12}
+        }
+    },
+    "cathode_materials": {
+        "금속 원소": {
+            "리튬 (Li)": {"potential": -3.04},
+            "알루미늄 (Al)": {"potential": -1.66},
+            "금 (Au)": {"potential": 0.85},
+            "은 (Ag)": {"potential": 0.80},
+            "니켈 (Ni)": {"potential": -0.25},
+            "코발트 (Co)": {"potential": 0.28},
+            "구리 (Cu)": {"potential": 0.34},
+            "철 (Fe)": {"potential": -0.44},
+            "주석 (Sn)": {"potential": -0.14},
+            "망간 (Mn)": {"potential": -1.18},
+            "바나듐 (V)": {"potential": -1.00},
+            "크롬 (Cr)": {"potential": -0.74},
+            "티타늄 (Ti)": {"potential": -1.63}
+        },
+        "금속 산화물": {
+            "망간 산화물 (MnO₂)": {"potential": 0.56},
+            "니켈 산화물 (NiO)": {"potential": 0.20},
+            "코발트 산화물 (CoO)": {"potential": 0.89},
+            "주석 산화물 (SnO₂)": {"potential": 0.75},
+            "산화철 (Fe₂O₃)": {"potential": 0.30}
+        }
+    }
+}
